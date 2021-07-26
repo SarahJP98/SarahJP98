@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarah 
 - 👀 I’m interested in web development and designing engaging experiences.
-- 🌱 I’m currently learning JavaScript then I'll begin learning ReAct and Node.js.
-- 💞️ I’m looking to collaborate on simple web/land page projects.
+- 🌱 I’m currently working through freeCodeCamp certifications.
+- 💞️ I’m looking to collaborate on simple web and landing page projects.
 - 📫 How to reach me ...
 
 <!---
